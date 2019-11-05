@@ -5,7 +5,7 @@
       <canvas id="planet-chart" width="800" height="450"></canvas>
     </div>
     <footer>
-      <p>Scores calculated according to whether a certain character is eventhub users main, secondary or third choice fighter in their profile. Points are assigned as follows:</p>
+      <p>*Scores calculated according to whether a certain character is eventhub users main, secondary or third choice fighter in their profile. Points are assigned as follows:</p>
       <ul>
         <li>Main is worth 3 points.</li>
         <li>Secondary is worth 2 points.</li>

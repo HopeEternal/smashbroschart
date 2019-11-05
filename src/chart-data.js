@@ -16,7 +16,7 @@ export const planetChartData = {
     datasets: [
       {
         // Bar Graph
-        label: 'Popularity Score',
+        label: 'Popularity Score*',
         data: [555, 276, 221, 214, 188, 181, 174, 168, 166, 165],
         backgroundColor: [
           'rgba(54,73,93,.5)', // Blue
